@@ -1,0 +1,42 @@
+.innerbox{
+    width: 50%;
+    height: 470px;
+    padding-top: 200px;
+    padding-left: 100px;
+    float: left;
+}
+p{
+    color:cornflowerblue;
+    font-size: 20px;
+    margin-left: 1px;
+}
+
+
+
+h5{
+    color: rgb(143, 199, 199);
+    margin-top: 6px;
+    font-size: 25px;
+}
+
+h2{
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.logo2{
+    margin-top: 10px;
+}
+
+
+.all{
+    display: flex;
+}
+
+.low{
+    background-image: url(./images/Rectangle\ 1.png);
+}
+
+.logo2{
+    padding-top: 40px;
+}

@@ -1,0 +1,19 @@
+.middle{
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+    background-color: rgb(225, 236, 236);
+}
+
+.middle p{                                               
+    width: 400px;
+    margin-left: 470px;
+    color: black;
+    font-size: 11pt;
+}
+
+.middle h2{
+    font-size: 30pt;
+}
+
+

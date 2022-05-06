@@ -1,0 +1,30 @@
+.lower{
+    width: 100%;
+    height: 350px;
+    padding-left: 200px;
+    padding-top: 70px;
+}
+
+.lower h3{
+    font-size: 20pt;
+}
+
+.lower p{
+    font-size: 10pt;
+    color: black;
+}
+
+.logo4{
+    height: 200px;
+    width: 450px;
+    padding-right: 50px;
+}
+
+.logo5{
+    height: 200px;
+    width: 450px;
+}
+
+.pic{
+    margin-top: 100px;
+}
